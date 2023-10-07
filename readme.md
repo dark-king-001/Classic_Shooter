@@ -1,6 +1,6 @@
-# Hand Gesture Recognition
+# Classic Space shooter
 <p align="center">
-  <img src="https://github.com/dark-king-001/Classic_Shooter/blob/main/SnapShots/logo.png" alt="Classic Shooter" />
+  <img src="https://github.com/dark-king-001/Classic_Shooter/blob/main/SnapShots/logo.png" height="100px" width="100px" alt="Classic Shooter" />
 </p>
 
 <p align="center">
