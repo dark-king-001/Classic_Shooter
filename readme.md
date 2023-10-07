@@ -1,6 +1,6 @@
 # Hand Gesture Recognition
 <p align="center">
-  <img src="https://github.com/dark-king-001/Classic_Shooter/blob/main/Snapshots/logo.png" alt="Classic Shooter" />
+  <img src="https://github.com/dark-king-001/Classic_Shooter/blob/main/SnapShots/logo.png" alt="Classic Shooter" />
 </p>
 
 <p align="center">
