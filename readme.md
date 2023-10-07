@@ -38,6 +38,9 @@ To learn JavaScript DOM while having fun making a game.
 
 ## Getting Started
 
+### Online pLay
+Use this link to open the game: https://dark-king-001.github.io/Classic_Shooter/
+
 ### Installation
 
 1. Clone the repo: 
